@@ -1,0 +1,33 @@
+pasos para instalar SASS
+
+METODO 1 (MUY DIFICIL)
+
+1. 
+
+Abir carpeta de proyecto desde Visual Studio Code
+Abrir carpeta desde GIT BUSH
+Abrir carpeta desde NODE.js
+
+2. en GIT BUSH
+
+• npm init + ENTER + ENTER + ENTER, etc... (a todos items)
+• npm install -D node-sass nodemon + ENTER
+
+
+METODO 2 (DIFICIL)
+
+1. En terminal de Visual Studio Code
+
+• npm init + ENTER
+• npm install -g sass + ENTER
+• sass --watch ./scss/style.scss ./css/style.css + ENTER
+
+METODO 3 (FACIL)
+
+1. Descargar Prepros.io
+2. Arrastrar proyecto dentro de la app
+3. Seleccionar archivo style.scss + CLICK "Process File"
+
+METODO 4 (FACIL)
+
+1. Descargar extension Live Sass Compiler a Visual Studio Code
